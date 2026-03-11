@@ -137,8 +137,6 @@ h6:hover .anchor {
 }
 
 .toc .top-btn {
-  position: sticky;
-  top: 0;
   display: flex;
   justify-content: flex-start;
   padding: 4px 0 8px 0;

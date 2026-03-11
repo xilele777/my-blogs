@@ -13,7 +13,7 @@
     <language>en</language>
     <lastBuildDate>Wed, 11 Mar 2026 18:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Crash Course Computer Science</title>
+      <title>Crash Course Computer Science纲要</title>
       <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-cs-lesson-profile/</link>
       <pubDate>Wed, 11 Mar 2026 18:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-cs-lesson-profile/</guid>
       <description>本文为计算机科学速成课纲要。</description>
@@ -30,11 +30,12 @@
       <title>更新日志</title>
       <link>https://xilele777.github.io/my-blogs/changelog/</link>
       <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/changelog/</guid>
-      <description>&lt;p&gt;自 2026 年3月11日起记录本站重要变更：&lt;/p&gt;
+      <description>&lt;p&gt;自 2026 年3月11日起记录本站主要变更：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2026-03-10/11   搭建本站，实现基础功能。&lt;/li&gt;
 &lt;li&gt;2026-03-11   将此本地Hugo项目部署为GitHub Pages。&lt;/li&gt;
 &lt;li&gt;2026-03-11   修复了导航栏部分标签点进去后为404的错误。&lt;/li&gt;
+&lt;li&gt;2026-03-11   修复了较长文本时右侧目录的细节问题。&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
