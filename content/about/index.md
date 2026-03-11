@@ -9,5 +9,6 @@ draft: false
 联系我：
 - Email：2519175810@qq.com
 - GitHub：https://github.com/xilele777/
+- Discord：https://discord.gg/n2VTPJjV
 
 如果你对文章内容有想法，欢迎交流。
