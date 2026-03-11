@@ -1,4 +1,5 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://xilele777.github.io/my-blogs/" 
+publishDir = "public"
 title = "小锅巴的个人博客"
 paginate = 5
 theme = "PaperMod/hugo-PaperMod-7.0"
@@ -37,7 +38,7 @@ env = "production"
 title = "小锅巴的个人博客"
 description = "记录我的学习历程"
 keywords = ["博客", "技术", "生活"]
-images = ["<link or path of image for opengraph, twitter-cards>"]
+images = ["images/avatar-overtime-bear.png"]
 DateFormat = "January 2, 2006"
 defaultTheme = "light"
 disableThemeToggle = true
@@ -61,12 +62,12 @@ tocopen = true
 favicon = "favicon.ico"
 favicon16x16 = "favicon-16x16.png"
 favicon32x32 = "favicon-32x32.png"
-apple_touch_icon = "apple-touch-icon.png"
-safari_pinned_tab = "safari-pinned-tab.svg"
+apple_touch_icon = "favicon-32x32.png"
+safari_pinned_tab = ""
 
 [params.label]
 text = "Xiaoguoba's Blog"
-icon = "/apple-touch-icon.png"
+icon = "images/avatar-overtime-bear.png"
 iconHeight = 35
 
 [params.profileMode]
