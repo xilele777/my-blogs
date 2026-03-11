@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>小锅巴的个人博客</title>
-    <link>http://localhost:1313/my-blogs/</link>
+    <link>https://xilele777.github.io/my-blogs/</link>
     <description>Recent content on 小锅巴的个人博客</description>
     <image>
       <title>小锅巴的个人博客</title>
-      <url>http://localhost:1313/my-blogs/images/avatar-overtime-bear.png</url>
-      <link>http://localhost:1313/my-blogs/images/avatar-overtime-bear.png</link>
+      <url>https://xilele777.github.io/my-blogs/images/avatar-overtime-bear.png</url>
+      <link>https://xilele777.github.io/my-blogs/images/avatar-overtime-bear.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/my-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world/</guid>
+      <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</guid>
       <description>你好。</description>
     </item>
     
     <item>
       <title>更新日志</title>
-      <link>http://localhost:1313/my-blogs/changelog/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/changelog/</guid>
+      <link>https://xilele777.github.io/my-blogs/changelog/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/changelog/</guid>
       <description>&lt;p&gt;自 2026 年3月11日起记录本站重要变更：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2026-03-10/11   搭建本站，实现基础功能。&lt;/li&gt;
@@ -33,8 +33,8 @@
     
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/my-blogs/about/</link>
-      <pubDate>Tue, 10 Mar 2026 20:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/about/</guid>
+      <link>https://xilele777.github.io/my-blogs/about/</link>
+      <pubDate>Tue, 10 Mar 2026 20:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/about/</guid>
       <description>&lt;p&gt;Hi~这里记录我在学习与生活中的总结与思考。&lt;/p&gt;
 &lt;p&gt;联系我：&lt;/p&gt;
 &lt;ul&gt;

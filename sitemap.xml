@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-blogs/categories/</loc>
+    <loc>https://xilele777.github.io/my-blogs/categories/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world/</loc>
+    <loc>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/tags/hello-world/</loc>
+    <loc>https://xilele777.github.io/my-blogs/tags/hello-world/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/categories/march/</loc>
+    <loc>https://xilele777.github.io/my-blogs/categories/march/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/tags/new-people/</loc>
+    <loc>https://xilele777.github.io/my-blogs/tags/new-people/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/posts/</loc>
+    <loc>https://xilele777.github.io/my-blogs/posts/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/tags/</loc>
+    <loc>https://xilele777.github.io/my-blogs/tags/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/categories/water/</loc>
+    <loc>https://xilele777.github.io/my-blogs/categories/water/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/</loc>
+    <loc>https://xilele777.github.io/my-blogs/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/changelog/</loc>
+    <loc>https://xilele777.github.io/my-blogs/changelog/</loc>
     <lastmod>2026-03-11T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/about/</loc>
+    <loc>https://xilele777.github.io/my-blogs/about/</loc>
     <lastmod>2026-03-10T20:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/search/</loc>
+    <loc>https://xilele777.github.io/my-blogs/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-blogs/archives/</loc>
+    <loc>https://xilele777.github.io/my-blogs/archives/</loc>
   </url>
 </urlset>
