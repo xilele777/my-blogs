@@ -14,13 +14,6 @@
     <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/my-blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world---%E5%89%AF%E6%9C%AC/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world---%E5%89%AF%E6%9C%AC/</guid>
-      <description>你好。</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
       <link>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world/</link>
       <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/posts/2026-03-11-hello-world/</guid>
       <description>你好。</description>
@@ -33,22 +26,28 @@
       <description>&lt;p&gt;自 2026 年3月11日起记录本站重要变更：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2026-03-10/11   搭建本站，实现基础功能。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最后一次重大更新时间：20260311&lt;/p&gt;</description>
+&lt;li&gt;2026-03-11   将此本地Hugo项目部署为GitHub Pages。&lt;/li&gt;
+&lt;li&gt;2026-03-11   修复了导航栏部分标签点进去后为404的错误。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>关于</title>
       <link>http://localhost:1313/my-blogs/about/</link>
       <pubDate>Tue, 10 Mar 2026 20:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/about/</guid>
-      <description>&lt;p&gt;我是小锅巴。这里记录我在学习与生活中的总结与思考。&lt;/p&gt;
+      <description>&lt;p&gt;Hi~这里记录我在学习与生活中的总结与思考。&lt;/p&gt;
 &lt;p&gt;联系我：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Email：2519175810@qq.com&lt;/li&gt;
 &lt;li&gt;GitHub：https://github.com/xilele777/&lt;/li&gt;
 &lt;li&gt;Discord：https://discord.gg/n2VTPJjV&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;如果你对文章内容有想法，欢迎交流。&lt;/p&gt;</description>
+&lt;p&gt;如果你对文章内容有想法，欢迎交流。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注1：搭建过程所花费时间：10号下午~11号凌晨，11号上午半天。&lt;/p&gt;
+&lt;p&gt;注2：使用工具及模型为&lt;strong&gt;trae国际版内置ChatGPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;v1.0.0&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     

@@ -13,13 +13,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/my-blogs/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3月</title>
-      <link>http://localhost:1313/my-blogs/categories/3%E6%9C%88/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/categories/3%E6%9C%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>March</title>
       <link>http://localhost:1313/my-blogs/categories/march/</link>
       <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/categories/march/</guid>
@@ -30,13 +23,6 @@
       <title>Water</title>
       <link>http://localhost:1313/my-blogs/categories/water/</link>
       <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/categories/water/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>水文</title>
-      <link>http://localhost:1313/my-blogs/categories/%E6%B0%B4%E6%96%87/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/categories/%E6%B0%B4%E6%96%87/</guid>
       <description></description>
     </item>
     
