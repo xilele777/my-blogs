@@ -14,6 +14,13 @@
     <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
+      <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world---%E5%89%AF%E6%9C%AC/</guid>
+      <description>你好。</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
       <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</link>
       <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</guid>
       <description>你好。</description>
