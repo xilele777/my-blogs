@@ -158,6 +158,10 @@ weight = 40
 pygmentsUseClasses = true
 
 [markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 [markup.highlight]
 noClasses = false
 
