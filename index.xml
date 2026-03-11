@@ -11,16 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 21:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</guid>
+      <description>你好。</description>
+    </item>
+    
     <item>
       <title>更新日志</title>
       <link>https://xilele777.github.io/my-blogs/changelog/</link>
-      <pubDate>Tue, 10 Mar 2026 21:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/changelog/</guid>
-      <description>&lt;p&gt;自 2026 年3月10日起记录本站重要变更：&lt;/p&gt;
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/changelog/</guid>
+      <description>&lt;p&gt;自 2026 年3月11日起记录本站重要变更：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;2026-03-10   搭建本站&lt;/li&gt;
+&lt;li&gt;2026-03-10/11   搭建本站，实现基础功能。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;最后一次重大更新时间：20260310&lt;/p&gt;</description>
+&lt;p&gt;最后一次重大更新时间：20260311&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,6 +39,7 @@
 &lt;ul&gt;
 &lt;li&gt;Email：2519175810@qq.com&lt;/li&gt;
 &lt;li&gt;GitHub：https://github.com/xilele777/&lt;/li&gt;
+&lt;li&gt;Discord：https://discord.gg/n2VTPJjV&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;如果你对文章内容有想法，欢迎交流。&lt;/p&gt;</description>
     </item>
