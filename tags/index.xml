@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 小锅巴的个人博客</title>
-    <link>https://xilele777.github.io/my-blogs/tags/</link>
+    <link>http://localhost:1313/my-blogs/tags/</link>
     <description>Recent content in Tags on 小锅巴的个人博客</description>
     <image>
       <title>小锅巴的个人博客</title>
-      <url>https://xilele777.github.io/my-blogs/images/avatar-overtime-bear.png</url>
-      <link>https://xilele777.github.io/my-blogs/images/avatar-overtime-bear.png</link>
+      <url>http://localhost:1313/my-blogs/images/avatar-overtime-bear.png</url>
+      <link>http://localhost:1313/my-blogs/images/avatar-overtime-bear.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Mar 2026 12:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/my-blogs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://xilele777.github.io/my-blogs/tags/hello-world/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/tags/hello-world/</guid>
+      <link>http://localhost:1313/my-blogs/tags/hello-world/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/tags/hello-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New People</title>
-      <link>https://xilele777.github.io/my-blogs/tags/new-people/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/tags/new-people/</guid>
+      <link>http://localhost:1313/my-blogs/tags/new-people/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/tags/new-people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>新人报道</title>
-      <link>https://xilele777.github.io/my-blogs/tags/%E6%96%B0%E4%BA%BA%E6%8A%A5%E9%81%93/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/tags/%E6%96%B0%E4%BA%BA%E6%8A%A5%E9%81%93/</guid>
+      <link>http://localhost:1313/my-blogs/tags/%E6%96%B0%E4%BA%BA%E6%8A%A5%E9%81%93/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>http://localhost:1313/my-blogs/tags/%E6%96%B0%E4%BA%BA%E6%8A%A5%E9%81%93/</guid>
       <description></description>
     </item>
     
