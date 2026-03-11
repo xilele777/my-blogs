@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on 小锅巴的个人博客</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on 小锅巴的个人博客</description>
+    <image>
+      <title>小锅巴的个人博客</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Mar 2026 18:40:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>调试文章1</title>
+      <link>http://localhost:1313/posts/javascript-%E5%9F%BA%E7%A1%80---%E7%AC%AC2%E5%A4%A9/</link>
+      <pubDate>Tue, 10 Mar 2026 18:40:00 +0800</pubDate><guid>http://localhost:1313/posts/javascript-%E5%9F%BA%E7%A1%80---%E7%AC%AC2%E5%A4%A9/</guid>
+      <description>一句话说明这篇文章的核心内容，比如：JavaScript 运算符与流程控制入门。</description>
+    </item>
+    
+  </channel>
+</rss>
