@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 小锅巴的个人博客</title>
-    <link>https://xilele777.github.io/my-blogs/posts/</link>
-    <description>Recent content in Posts on 小锅巴的个人博客</description>
+    <title>Repost on 小锅巴的个人博客</title>
+    <link>https://xilele777.github.io/my-blogs/categories/repost/</link>
+    <description>Recent content in Repost on 小锅巴的个人博客</description>
     <image>
       <title>小锅巴的个人博客</title>
       <url>https://xilele777.github.io/my-blogs/images/avatar-overtime-bear.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0800</lastBuildDate><atom:link href="https://xilele777.github.io/my-blogs/categories/repost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何高效更新本博客</title>
       <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E6%9B%B4%E6%96%B0%E6%9C%AC%E5%8D%9A%E5%AE%A2/</link>
@@ -24,13 +24,6 @@
       <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-cs-lesson-profile/</link>
       <pubDate>Wed, 11 Mar 2026 18:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-cs-lesson-profile/</guid>
       <description>本文为计算机科学速成课纲要。</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0800</pubDate><guid>https://xilele777.github.io/my-blogs/posts/2026-03-11-hello-world/</guid>
-      <description>你好。</description>
     </item>
     
   </channel>

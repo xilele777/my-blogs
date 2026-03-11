@@ -5,9 +5,9 @@ date: 2026-03-11T18:00:00+08:00
 
 draft: false
 
-tags: ["CS","lesson","repost"]
+tags: ["CS","lesson"]
 
-categories: ["March","meaty content"]
+categories: ["March","meaty content","repost"]
 
 showToc: true
 tocOpen: true
