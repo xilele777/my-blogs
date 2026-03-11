@@ -1,0 +1,165 @@
+baseURL = "http://localhost:1313/"
+title = "小锅巴的个人博客"
+paginate = 5
+theme = "PaperMod/hugo-PaperMod-7.0"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+disableFastRender = true
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[server]
+[[server.headers]]
+for = "/tags/**"
+[server.headers.values]
+Cache-Control = "no-store, no-cache, must-revalidate, max-age=0"
+Pragma = "no-cache"
+
+[[server.headers]]
+for = "/categories/**"
+[server.headers.values]
+Cache-Control = "no-store, no-cache, must-revalidate, max-age=0"
+Pragma = "no-cache"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "小锅巴的个人博客"
+description = "记录我的学习历程"
+keywords = ["博客", "技术", "生活"]
+images = ["<link or path of image for opengraph, twitter-cards>"]
+DateFormat = "January 2, 2006"
+defaultTheme = "light"
+disableThemeToggle = true
+author = "小锅巴"
+
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowRssButtonInSectionTermList = false
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = true
+
+[params.assets]
+favicon = "favicon.ico"
+favicon16x16 = "favicon-16x16.png"
+favicon32x32 = "favicon-32x32.png"
+apple_touch_icon = "apple-touch-icon.png"
+safari_pinned_tab = "safari-pinned-tab.svg"
+
+[params.label]
+text = "Xiaoguoba's Blog"
+icon = "/apple-touch-icon.png"
+iconHeight = 35
+
+[params.profileMode]
+enabled = true
+title = "momo"
+subtitle = "真理使人自由。"
+imageUrl = "images/avatar-overtime-bear.png"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "自嘲熊头像"
+
+[[params.profileMode.buttons]]
+name = "文章汇总"
+url = "archives"
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my blog"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:2519175810@qq.com"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+[params.cover]
+hidden = true
+hiddenInList = true
+hiddenInSingle = true
+
+# [params.editPost]
+# URL = "https://github.com/<path_to_repo>/content"
+# Text = "Suggest Changes"
+# appendFilePath = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+limit = 10
+keys = ["title", "permalink", "summary", "content"]
+
+[menu]
+[[menu.main]]
+identifier = "tags"
+name = "标签"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "categories"
+name = "分类"
+url = "/categories/"
+weight = 25
+
+[[menu.main]]
+identifier = "archives"
+name = "文章汇总"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "关于"
+url = "/about/"
+weight = 30
+
+[[menu.main]]
+identifier = "search"
+name = "搜索一下"
+url = "/search/"
+weight = 40
+
+
+
+pygmentsUseClasses = true
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[social]
+facebook_admin = ""
+twitter = ""

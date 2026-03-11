@@ -1,0 +1,33 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+<ul class="terms-tags">
+    {{- $type := .Type }}
+    {{- $tax := (cond (eq $type "tags") site.Taxonomies.tags site.Taxonomies.categories) }}
+    {{- $ordered := sort (slice) "Name" }}
+    {{- range $k, $v := $tax }}
+        {{- $ordered = $ordered | append (dict "Name" $k "Count" (len $v)) -}}
+    {{- end }}
+    {{- range sort $ordered "Name" }}
+        {{- $name := .Name -}}
+        {{- $count := .Count -}}
+        {{- $path := printf "/%s/%s" $type (urlize $name) -}}
+        {{- with site.GetPage $path -}}
+            <li><a href="{{ .Permalink }}">{{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup></a></li>
+        {{- else -}}
+            <li><a href="{{ $path | relURL }}">{{ $name }} <sup><strong><sup>{{ $count }}</sup></strong></sup></a></li>
+        {{- end -}}
+    {{- end -}}
+</ul>
+
+{{- end }}{{/* end main */ -}}

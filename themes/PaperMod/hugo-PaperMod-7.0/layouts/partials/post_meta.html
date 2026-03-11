@@ -1,0 +1,25 @@
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+{{- $dateFormat := site.Params.DateFormat | default "January 2, 2006" -}}
+{{- $dateText := .Date | time.Format $dateFormat -}}
+{{- $dateHTML := printf "<span title='%s'>%s</span>" .Date $dateText | safeHTML -}}
+{{- $scratch.Add "meta" (slice $dateHTML) }}
+{{- end }}
+
+{{- $author := .Params.author | default site.Params.author -}}
+{{- $author_type := (printf "%T" $author) -}}
+{{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) -}}
+{{- $author_list := delimit $author ", " -}}
+{{- with $author_list }}
+{{- $scratch.Add "meta" (slice .) }}
+{{- end }}
+{{- else -}}
+{{- with $author }}
+{{- $scratch.Add "meta" (slice .) }}
+{{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
