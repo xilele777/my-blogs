@@ -154,9 +154,6 @@ url = "/search/"
 weight = 40
 
 
-
-pygmentsUseClasses = true
-
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
